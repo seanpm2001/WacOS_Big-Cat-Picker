@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🍎️🐱️🦁️🐯️🍏️💾️ Big Cat picker is a tool for generating names of MacOS releases, based on the Big Cat naming scheme. It is a joke program that is part of the WacOS operating system project. For later MacOS versions, see WacOS Apple Valley Picker. Part of the WacOS operating system project.
