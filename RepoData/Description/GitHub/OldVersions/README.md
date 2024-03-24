@@ -1,0 +1,1 @@
+🍎️🐱️🦁️🐯️🍏️💾️ Big Cat picker is a tool for generating names of MacOS releases, based on the Big Cat naming scheme. It is a joke program that is part of the WacOS operating system project. For later MacOS versions, see WacOS Apple Valley Picker. Part of the WacOS operating system project.
